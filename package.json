@@ -1,0 +1,69 @@
+{
+    "name": "vscode-starter-extension-pack",
+    "displayName": "vscode starter extension pack",
+    "description": "extension pack for vscode starter. install what you need.",
+    "version": "0.0.1",
+    "icon": "images/box.png",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "publisher": "TaehunKim",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "donjayamanne.git-extension-pack",
+        "alefragnani.project-manager",
+        "eamodio.gitlens",
+        "codezombiech.gitignore",
+        "donjayamanne.githistory",
+        "mhutchie.git-graph",
+        "felipecaputo.git-project-manager",
+        "ziyasal.vscode-open-in-github",
+
+        "shd101wyy.markdown-preview-enhanced",
+        "DavidAnson.vscode-markdownlint",
+        "yzhang.markdown-all-in-one",
+        
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vscode-remote.remote-wsl",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-docker",
+        
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.jupyter-keymap",
+        "ms-python.vscode-pylance",
+        "KevinRose.vsc-python-indent",
+        "njpwerner.autodocstring",
+        
+        
+        "aaron-bond.better-comments",
+        "wwm.better-align",
+        "foxundermoon.shell-format",
+        "mechatroner.rainbow-csv",
+        "streetsidesoftware.code-spell-checker",
+        "oderwat.indent-rainbow",
+        "usernamehw.errorlens",
+
+        "hediet.debug-visualizer",
+        "hoovercj.vscode-power-mode",
+
+        "tomoki1207.pdf",
+        "msrvida.vscode-sanddance",
+
+        "vscodevim.vim",
+        "albert.TabOut",
+        "VisualStudioExptTeam.vscodeintellicode",
+
+        "monokai.theme-monokai-pro-vscode",
+        "zhuangtongfa.material-theme",
+        "pkief.material-icon-theme",
+        "github.github-vscode-theme",
+        "dracula-theme.theme-dracula",
+        "akamud.vscode-theme-onedark"
+    ]
+}
