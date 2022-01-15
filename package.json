@@ -2,7 +2,7 @@
     "name": "vscode-starter-extension-pack",
     "displayName": "vscode starter extension pack",
     "description": "extension pack for vscode starter. install what you need.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon": "images/box.png",
     "engines": {
         "vscode": "^1.63.0"
@@ -24,6 +24,7 @@
         "mhutchie.git-graph",
         "felipecaputo.git-project-manager",
         "ziyasal.vscode-open-in-github",
+        "vsls-contrib.gistfs",
 
         "shd101wyy.markdown-preview-enhanced",
         "DavidAnson.vscode-markdownlint",
@@ -62,12 +63,18 @@
         "vscodevim.vim",
         "albert.TabOut",
         "VisualStudioExptTeam.vscodeintellicode",
+        "tabnine.tabnine-vscode",
 
         "monokai.theme-monokai-pro-vscode",
         "zhuangtongfa.material-theme",
         "pkief.material-icon-theme",
         "github.github-vscode-theme",
         "dracula-theme.theme-dracula",
-        "akamud.vscode-theme-onedark"
+        "akamud.vscode-theme-onedark",
+
+        "johnpapa.vscode-peacock",
+        "bungcip.better-toml",
+        "redhat.vscode-yaml",
+        "pnp.polacode"
     ]
 }

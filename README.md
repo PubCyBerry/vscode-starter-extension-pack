@@ -20,6 +20,10 @@
 
 ---
 
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/TaehunKim.vscode-starter-extension-pack?color=brightgreen)
+
+---
+
 ## ToC <!-- omit in toc -->
 
 - [Universal](#universal)
@@ -32,6 +36,7 @@
 - [Visual](#visual)
 - [Viewer](#viewer)
 - [Typing Support](#typing-support)
+- [Misc](#misc)
 
 ---
 
@@ -126,6 +131,8 @@
 
 - Git Graph
 
+- GistPad
+
 ![image](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
 
 ## Markdown
@@ -187,3 +194,15 @@
 - Visual Studio Intellicode
 
 ![image](https://go.microsoft.com/fwlink/?linkid=2006041)
+
+- Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more
+
+## Misc
+
+- Peacock
+
+- Better TOML
+
+- Polacode
+
+- YAML
